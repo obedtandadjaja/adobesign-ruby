@@ -1,4 +1,4 @@
-# adobesign-ruby
+# AdobeSign Ruby Library
 Ruby library for the Adobesign API v5.
 
 ## Installation
