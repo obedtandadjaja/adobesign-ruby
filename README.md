@@ -24,5 +24,5 @@ If you are installing via bundler, you should be sure to use the https rubygems 
 source 'https://rubygems.org'
 
 gem 'rails'
-gem 'stripe'
+gem 'adobesign-ruby'
 ```
